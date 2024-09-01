@@ -1,0 +1,563 @@
+Airlines,Flight ID,Departure Time,Origin Airport,Origin State,Origin Country,Destination Airport,Arrival Time,Destination State,Destination Country,Total Flight Time
+Turkish Airlines,TK001,9:50 PM,BOS,Massachusetts,USA,DXB,2:30 AM+2,Dubai,United Arab Emirates,20 hr 40 min
+United,UA002,6:05 PM,BOS,Massachusetts,USA,DXB,6:35 PM+1,Dubai,United Arab Emirates,16 hr 30 min
+Qatar Airways,QR003,10:00 PM,BOS,Massachusetts,USA,SHJ,8:10 PM+1,Sharjha,United Arab Emirates,14 hr 10 min
+SWISS,LX004,9:45 PM,BOS,Massachusetts,USA,DXB,9:05 PM+1,Dubai,United Arab Emirates,15 hr 20 min
+Emirates,EK005,11:05 PM,BOS,Massachusetts,USA,DXB,7:20 PM+1,Dubai,United Arab Emirates,12 hr 15 min
+United,UA006,9:05 AM,BOS,Massachusetts,USA,DXB,6:35 PM+1,Dubai,United Arab Emirates,25 hr 30 min
+United,UA007,10:35 AM,BOS,Massachusetts,USA,DXB,6:35 PM+1,Dubai,United Arab Emirates,24 hr 0 min
+United,UA008,12:00 PM,BOS,Massachusetts,USA,DXB,6:35 PM+1,Dubai,United Arab Emirates,22 hr 35 min
+United,UA009,2:30 PM,BOS,Massachusetts,USA,DXB,6:35 PM+1,Dubai,United Arab Emirates,20 hr 5 min
+United,UA010,4:23 PM,BOS,Massachusetts,USA,DXB,6:35 PM+1,Dubai,United Arab Emirates,18 hr 12 min
+United,UA011,6:00 AM,BOS,Massachusetts,USA,DXB,6:35 PM+1,Dubai,United Arab Emirates,28 hr 35 min
+Qatar Airways,QR012,10:00 PM,BOS,Massachusetts,USA,DXB,9:25 PM+1,Dubai,United Arab Emirates,15 hr 25 min
+Qatar Airways,QR013,10:00 PM,BOS,Massachusetts,USA,SHJ,9:50 AM+2,Sharjha,United Arab Emirates,27 hr 50 min
+Qatar Airways,QR014,10:00 PM,BOS,Massachusetts,USA,SHJ,3:45 PM+2,Sharjha,United Arab Emirates,33 hr 45 min
+Turkish Airlines,TK015,9:50 PM,BOS,Massachusetts,USA,DXB,12:20 AM+2,Dubai,United Arab Emirates,18 hr 30 min
+Turkish Airlines,TK016,9:50 PM,BOS,Massachusetts,USA,DXB,5:55 AM+2,Dubai,United Arab Emirates,24 hr 5 min
+SWISS,LX017,5:10 PM,BOS,Massachusetts,USA,DXB,9:05 PM+1,Dubai,United Arab Emirates,19 hr 55 min
+Air France,AF018,5:15 PM,BOS,Massachusetts,USA,DXB,10:35 PM+1,Dubai,United Arab Emirates,21 hr 20 min
+Delta,DL019,6:50 PM,BOS,Massachusetts,USA,DXB,10:35 PM+1,Dubai,United Arab Emirates,19 hr 45 min
+Lufthansa,LH020,6:05 PM,BOS,Massachusetts,USA,DXB,10:35 PM+1,Dubai,United Arab Emirates,20 hr 30 min
+Aer Lingus,EI 137,4:45 PM,DUB,Dublin,Ireland,BOS,6:50 PM,Massachusetts,USA,7 hr 5 min
+JetBlue,B6 202,10:55 AM,DUB,Dublin,Ireland,BOS,1:03 PM,Massachusetts,USA,7 hr 8 min
+Delta,DL 123,1:15 PM,DUB,Dublin,Ireland,BOS,3:40 PM,Massachusetts,USA,7 hr 25 min
+Icelandair,FI 631,10:20 PM,CDG,Paris,France,BOS,10:00 PM+1,Massachusetts,USA,29 hr 40 min
+Icelandair,FI 631,10:20 PM,CDG,Paris,France,BOS,6:50 PM+1,Massachusetts,USA,26 hr 30 min
+Lufthansa,LH 423,7:25 AM,CDG,Paris,France,BOS,1:20 PM,Massachusetts,USA,11 hr 55 min
+United,UA 123,11:35 AM,DUB,Dublin,Ireland,BOS,10:06 PM,Massachusetts,USA,15 hr 31 min
+Icelandair,FI 631,2:50 PM,DUB,Dublin,Ireland,BOS,6:50 PM,Massachusetts,USA,9 hr
+Norse Atlantic UK,N0 301,10:00 AM,LGW,London,UK,BOS,9:35 AM+1,Massachusetts,USA,28 hr 35 min
+United,UA 456,9:20 AM,DUB,Dublin,Ireland,BOS,2:16 PM,Massachusetts,USA,9 hr 56 min
+KLM,KL 123,5:55 AM,DUB,Dublin,Ireland,BOS,1:45 PM,Massachusetts,USA,12 hr 50 min
+JetBlue,B6 145,12:10 PM,LGW,London,UK,BOS,3:01 PM,Massachusetts,USA,7 hr 51 min
+JetBlue,B6 789,8:25 AM,LHR,London,UK,BOS,11:02 AM,Massachusetts,USA,7 hr 37 min
+Aer Lingus,EI 137,11:45 AM,DUB,Dublin,Ireland,BOS,1:50 PM,Massachusetts,USA,7 hr 5 min
+JetBlue,B6 123,11:15 AM,CDG,Paris,France,BOS,1:25 PM,Massachusetts,USA,8 hr 10 min
+Delta,DL 789,11:45 AM,CDG,Paris,France,BOS,1:45 PM,Massachusetts,USA,8 hr
+Air France,AF 456,1:25 PM,CDG,Paris,France,BOS,3:05 PM,Massachusetts,USA,7 hr 40 min
+Air France,AF 789,4:10 PM,CDG,Paris,France,BOS,6:00 PM,Massachusetts,USA,7 hr 50 min
+Air France,AF 456,6:45 PM,CDG,Paris,France,BOS,8:35 PM,Massachusetts,USA,7 hr 50 min
+Lufthansa,LH 423,8:15 AM,BER,Berlin,Germany,BOS,1:20 PM,Massachusetts,USA,11 hr 5 min
+United,UA 678,9:50 AM,BER,Berlin,Germany,BOS,4:45 PM,Massachusetts,USA,12 hr 55 min
+Delta,DL 456,11:00 AM,FCO,Rome,Italy,BOS,2:30 PM,Massachusetts,USA,9 hr 30 min
+Icelandair,FI 631,3:35 PM,FCO,Rome,Italy,BOS,6:50 PM+1,Massachusetts,USA,33 hr 15 min
+United,UA 567,11:00 AM,FCO,Rome,Italy,BOS,6:00 PM,Massachusetts,USA,13 hr
+United,UA 789,3:40 PM,FCO,Rome,Italy,BOS,11:59 PM,Massachusetts,USA,14 hr 19 min
+Lufthansa,LH 654,10:50 AM,FCO,Rome,Italy,BOS,5:50 PM,Massachusetts,USA,13 hr
+Lufthansa,LH 432,9:26 AM,BER,Berlin,Germany,BOS,11:59 PM,Massachusetts,USA,20 hr 33 min
+Lufthansa,LH 532,12:55 PM,FCO,Rome,Italy,BOS,5:50 PM,Massachusetts,USA,10 hr 55 min
+KLM,KL 789,12:15 PM,BER,Berlin,Germany,BOS,4:40 PM,Massachusetts,USA,10 hr 25 min
+ITA,AZ 123,10:20 AM,FCO,Rome,Italy,BOS,1:40 PM,Massachusetts,USA,9 hr 20 min
+Iberia,IB 6171,1:00 PM,MAD,Madrid,Spain,BOS,3:05 PM,Massachusetts,USA,8 hr 5 min
+"Qatar Airways, Condor",Multiple,1:55 AM,DOH,Doha,Qatar,BOS,1:20 PM,Massachusetts,USA,18 hr 25 min
+"Saudia, Delta",Multiple,2:30 AM,RUH,Riyadh,Saudi Arabia,BOS,12:30 PM,Massachusetts,USA,17 hr
+Emirates,EK,8:20 AM,DXB,Dubai,United Arab Emirates,BOS,2:10 PM,Massachusetts,USA,13 hr 50 min
+"ITA, Delta",Multiple,1:45 AM,RUH,Riyadh,Saudi Arabia,BOS,6:46 PM,Massachusetts,USA,24 hr 1 min
+"Etihad, LufthansaUnited",Multiple,2:30 AM,AUH,Abu Dhabi,United Arab Emirates,BOS,5:50 PM,Massachusetts,USA,23 hr 20 min
+United,UA,1:55 AM,DXB,Dubai,United Arab Emirates,BOS,1:14 PM,Massachusetts,USA,19 hr 19 min
+"Saudia, Virgin Atlantic",Multiple,2:30 AM,RUH,Riyadh,Saudi Arabia,BOS,4:05 PM,Massachusetts,USA,20 hr 35 min
+"Saudia, Virgin Atlantic",Multiple,9:15 AM,RUH,Riyadh,Saudi Arabia,BOS,7:40 PM,Massachusetts,USA,17 hr 25 min
+Etihad,EY,3:10 AM,AUH,Abu Dhabi,United Arab Emirates,BOS,8:55 AM,Massachusetts,USA,13 hr 45 min
+"Qatar Airways, American",Multiple,8:15 AM,DOH,Doha,Qatar,BOS,2:50 PM,Massachusetts,USA,13 hr 35 min
+Etihad,EY001,4:00 PM,BOS,Massachusetts,USA,RUH,3:15 PM+1,Riyadh,Saudi Arabia,16 hr 15 min
+Turkish Airlines,TK002,9:50 PM,BOS,Massachusetts,USA,RUH,12:10 AM+2,Riyadh,Saudi Arabia,19 hr 20 min
+LufthansaUnited,LH003,10:00 PM,BOS,Massachusetts,USA,RUH,7:55 PM+1,Riyadh,Saudi Arabia,14 hr 55 min
+Etihad,EY004,4:00 PM,BOS,Massachusetts,USA,RUH,9:30 PM+1,Riyadh,Saudi Arabia,22 hr 30 min
+Etihad,EY005,4:00 PM,BOS,Massachusetts,USA,RUH,3:05 AM+2,Riyadh,Saudi Arabia,28 hr 5 min
+Etihad,EY006,4:00 PM,BOS,Massachusetts,USA,RUH,9:00 AM+2,Riyadh,Saudi Arabia,34 hr
+"Etihad, Saudia",EY007,4:00 PM,BOS,Massachusetts,USA,RUH,3:25 PM+1,Riyadh,Saudi Arabia,16 hr 25 min
+Etihad,EY008,4:00 PM,BOS,Massachusetts,USA,RUH,3:15 PM+2,Riyadh,Saudi Arabia,40 hr 15 min
+Turkish Airlines,TK009,9:50 PM,BOS,Massachusetts,USA,RUH,5:25 AM+2,Riyadh,Saudi Arabia,24 hr 35 min
+"Etihad, Saudia",EY010,4:00 PM,BOS,Massachusetts,USA,RUH,3:25 PM+2,Riyadh,Saudi Arabia,40 hr 25 min
+"Air Canada, Lufthansa",AC011,4:10 PM,BOS,Massachusetts,USA,RUH,7:55 PM+1,Riyadh,Saudi Arabia,20 hr 45 min
+"United, Emirates",UA012,2:30 PM,BOS,Massachusetts,USA,RUH,2:25 AM+2,Riyadh,Saudi Arabia,28 hr 55 min
+"United, Emirates",UA013,4:23 PM,BOS,Massachusetts,USA,RUH,2:25 AM+2,Riyadh,Saudi Arabia,27 hr 2 min
+"United, Emirates",UA014,6:05 PM,BOS,Massachusetts,USA,RUH,2:25 AM+2,Riyadh,Saudi Arabia,25 hr 20 min
+"Air Canada, Lufthansa",AC015,3:30 PM,BOS,Massachusetts,USA,RUH,7:55 PM+1,Riyadh,Saudi Arabia,21 hr 25 min
+"Air Canada, Lufthansa",AC016,3:30 PM,BOS,Massachusetts,USA,RUH,7:55 PM+1,Riyadh,Saudi Arabia,21 hr 25 min
+LufthansaUnited,LH017,6:05 PM,BOS,Massachusetts,USA,RUH,7:55 PM+1,Riyadh,Saudi Arabia,18 hr 50 min
+"United, Lufthansa",UA018,7:15 PM,BOS,Massachusetts,USA,RUH,7:55 PM+1,Riyadh,Saudi Arabia,17 hr 40 min
+"SWISS, Lufthansa",LX019,5:10 PM,BOS,Massachusetts,USA,RUH,7:55 PM+1,Riyadh,Saudi Arabia,19 hr 45 min
+"SWISS, Lufthansa",LX020,5:10 PM,BOS,Massachusetts,USA,RUH,7:55 PM+1,Riyadh,Saudi Arabia,19 hr 45 min
+British AirwaysIberia,BA021,10:05 PM,BOS,Massachusetts,USA,RUH,10:45 PM+1,Riyadh,Saudi Arabia,17 hr 40 min
+"Emirates, flydubai",EK022,11:05 PM,BOS,Massachusetts,USA,RUH,1:40 AM+2,Riyadh,Saudi Arabia,19 hr 35 min
+Emirates,EK023,11:05 PM,BOS,Massachusetts,USA,RUH,2:25 AM+2,Riyadh,Saudi Arabia,20 hr 20 min
+"JetBlue, Etihad",B6024,7:40 AM,BOS,Massachusetts,USA,RUH,3:15 PM+1,Riyadh,Saudi Arabia,24 hr 35 min
+British AirwaysIberia,BA025,7:10 PM,BOS,Massachusetts,USA,RUH,10:45 PM+1,Riyadh,Saudi Arabia,20 hr 35 min
+Qatar Airways,QR026,10:00 PM,BOS,Massachusetts,USA,RUH,10:40 PM+1,Riyadh,Saudi Arabia,17 hr 40 min
+Qatar AirwaysAmerican,QR027,10:00 PM,BOS,Massachusetts,USA,RUH,3:30 AM+2,Riyadh,Saudi Arabia,22 hr 30 min
+Qatar AirwaysAmerican,QR028,10:00 PM,BOS,Massachusetts,USA,RUH,10:15 AM+2,Riyadh,Saudi Arabia,29 hr 15 min
+"Air France, SaudiaDelta",AF029,5:15 PM,BOS,Massachusetts,USA,RUH,7:20 PM+1,Riyadh,Saudi Arabia,19 hr 5 min
+"Delta, SaudiaAir France",DL030,6:50 PM,BOS,Massachusetts,USA,RUH,7:20 PM+1,Riyadh,Saudi Arabia,17 hr 30 min
+Air Arabia,G90301,1:10 PM,SHJ,Sharjha,United Arab Emirates,DEL,5:55 PM,New Delhi,India,3 hr 15 min
+Air Arabia,G90302,6:35 PM,AUH,Abu Dhabi,United Arab Emirates,MAA,12:25 AM+1,Chennai,India,4 hr 20 min
+Air Arabia,G90303,10:35 PM,AUH,Abu Dhabi,United Arab Emirates,MAA,4:25 AM+1,Chennai,India,4 hr 20 min
+Air India,AI003,11:30 AM,DXB,Dubai,United Arab Emirates,BOM,4:10 PM,Mumbai,India,3 hr 10 min
+Air India,AI004,11:40 PM,DXB,Dubai,United Arab Emirates,BOM,4:20 AM+1,Mumbai,India,3 hr 10 min
+Air India,AI005,6:55 PM,DXB,Dubai,United Arab Emirates,BOM,11:35 PM,Mumbai,India,3 hr 10 min
+Air Arabia,G90306,1:20 AM,AUH,Abu Dhabi,United Arab Emirates,AMD,5:45 AM,Ahmedabad,India,2 hr 55 min
+Air Arabia,G90307,11:20 PM,SHJ,Sharjha,United Arab Emirates,GOI,4:05 AM+1,Goa,India,3 hr 15 min
+Air Arabia,G90308,11:25 PM,SHJ,Sharjha,United Arab Emirates,JAI,4:05 AM+1,Jaipur,India,3 hr 10 min
+Akasa Air,QP009,8:05 PM,AUH,Abu Dhabi,United Arab Emirates,BOM,1:00 AM+1,Mumbai,India,3 hr 25 min
+Air Arabia,G90310,4:35 PM,SHJ,Sharjha,United Arab Emirates,BOM,9:10 PM,Mumbai,India,3 hr 5 min
+Air Arabia,G90311,11:15 PM,SHJ,Sharjha,United Arab Emirates,DEL,4:00 AM+1,New Delhi,India,3 hr 15 min
+Air Arabia,G90312,11:40 PM,SHJ,Sharjha,United Arab Emirates,BOM,4:15 AM+1,Mumbai,India,3 hr 5 min
+Air Arabia,G90313,10:00 PM,SHJ,Sharjha,United Arab Emirates,MAA,3:35 AM+1,Chennai,India,4 hr 5 min
+IndiGo,6.00E+14,4:55 AM,SHJ,Sharjha,United Arab Emirates,MAA,8:00 AM+1,Chennai,India,25 hr 35 min
+IndiGo,6.00E+15,4:55 AM,SHJ,Sharjha,United Arab Emirates,MAA,12:05 AM+1,Chennai,India,17 hr 40 min
+IndiGo,6.00E+16,5:00 AM,DXB,Dubai,United Arab Emirates,BOM,9:40 AM,Mumbai,India,3 hr 10 min
+IndiGo,6.00E+17,5:55 PM,DXB,Dubai,United Arab Emirates,BOM,10:40 PM,Mumbai,India,3 hr 15 min
+IndiGo,6.00E+18,10:05 PM,DXB,Dubai,United Arab Emirates,BOM,2:45 AM+1,Mumbai,India,3 hr 10 min
+IndiGo,6.00E+19,10:40 AM,DXB,Dubai,United Arab Emirates,BOM,3:20 PM,Mumbai,India,3 hr 10 min
+Air Arabia,G90320,12:25 AM,SHJ,Sharjha,United Arab Emirates,AMD,4:35 AM,Ahmedabad,India,2 hr 40 min
+IndiGo,6.00E+21,11:50 PM,SHJ,Sharjha,United Arab Emirates,HYD,5:05 AM+1,Hyderabad,India,3 hr 45 min
+IndiGo,6.00E+22,11:50 PM,SHJ,Sharjha,United Arab Emirates,MAA,8:10 AM+1,Chennai,India,6 hr 50 min
+IndiGo,6.00E+23,11:50 PM,SHJ,Sharjha,United Arab Emirates,MAA,1:25 AM+2,Chennai,India,24 hr 5 min
+IndiGo,6.00E+24,5:00 AM,DXB,Dubai,United Arab Emirates,AMD,6:10 PM,Ahmedabad,India,11 hr 40 min
+IndiGo,6.00E+25,5:55 PM,DXB,Dubai,United Arab Emirates,AMD,2:00 AM+1,Ahmedabad,India,8 hr 10 min
+IndiGo,6.00E+26,5:55 PM,DXB,Dubai,United Arab Emirates,AMD,3:35 AM+1,Ahmedabad,India,9 hr 40 min
+IndiGo,6.00E+27,5:55 PM,DXB,Dubai,United Arab Emirates,AMD,5:35 AM+1,Ahmedabad,India,10 hr 10 min
+IndiGo,6.00E+28,11:50 PM,SHJ,Sharjha,United Arab Emirates,MAA,11:20 AM+1,Chennai,India,10 hr
+IndiGo,6.00E+29,11:50 PM,SHJ,Sharjha,United Arab Emirates,MAA,3:00 PM+1,Chennai,India,13 hr 40 min
+IndiGo,6.00E+30,11:50 PM,SHJ,Sharjha,United Arab Emirates,MAA,7:10 PM+1,Chennai,India,17 hr 50 min
+IndiGo,6.00E+31,11:50 PM,SHJ,Sharjha,United Arab Emirates,MAA,8:40 PM+1,Chennai,India,19 hr 20 min
+IndiGo,6.00E+32,11:50 PM,SHJ,Sharjha,United Arab Emirates,MAA,11:30 PM+1,Chennai,India,22 hr 10 min
+IndiGo,6.00E+33,5:55 PM,DXB,Dubai,United Arab Emirates,AMD,9:35 AM+1,Ahmedabad,India,14 hr 10 min
+IndiGo,6.00E+34,10:05 PM,DXB,Dubai,United Arab Emirates,AMD,9:35 AM+1,Ahmedabad,India,10 hr
+IndiGo,6.00E+35,10:40 AM,DXB,Dubai,United Arab Emirates,AMD,10:40 PM,Ahmedabad,India,10 hr 30 min
+IndiGo,6.00E+36,10:40 AM,DXB,Dubai,United Arab Emirates,AMD,2:00 AM+1,Ahmedabad,India,13 hr 50 min
+IndiGo,6.00E+37,10:40 AM,DXB,Dubai,United Arab Emirates,AMD,3:35 AM+1,Ahmedabad,India,15 hr 25 min
+Air India,AI038,10:10 AM,DXB,Dubai,United Arab Emirates,DEL,3:00 PM,New Delhi,India,3 hr 20 min
+IndiGo,6.00E+39,11:50 PM,SHJ,Sharjha,United Arab Emirates,DEL,6:10 PM+1,New Delhi,India,16 hr 50 min
+IndiGo,6.00E+40,5:00 AM,DXB,Dubai,United Arab Emirates,AMD,4:25 PM,Ahmedabad,India,9 hr 55 min
+IndiGo,6.00E+41,5:00 AM,DXB,Dubai,United Arab Emirates,AMD,7:40 PM,Ahmedabad,India,13 hr 10 min
+IndiGo,6.00E+42,5:00 AM,DXB,Dubai,United Arab Emirates,AMD,9:25 PM,Ahmedabad,India,14 hr 55 min
+IndiGo,6.00E+43,5:55 PM,DXB,Dubai,United Arab Emirates,AMD,7:30 AM+1,Ahmedabad,India,12 hr 5 min
+Etihad,EY203,1:55 PM,BOM,Mumbai,India,AUH,3:30 PM,Abu Dhabi,Dubai,3 hr 5 min
+Akasa Air,QP321,5:05 PM,BOM,Mumbai,India,AUH,6:50 PM,Abu Dhabi,Dubai,3 hr 15 min
+Air India Express,IX153,5:00 AM,BOM,Mumbai,India,AUH,6:40 AM,Abu Dhabi,Dubai,3 hr 10 min
+Etihad,EY204,4:30 AM,BOM,Mumbai,India,AUH,6:05 AM,Abu Dhabi,Dubai,3 hr 5 min
+IndiGo,6.00E+272,8:50 PM,MAA,Chennai,India,SHJ,3:55 AM+1,Sharjha,Dubai,8 hr 35 min
+Etihad,EY205,10:10 AM,MAA,Chennai,India,AUH,12:55 PM,Abu Dhabi,Dubai,4 hr 15 min
+IndiGo,6.00E+273,2:30 AM,BOM,Mumbai,India,DXB,4:00 AM,Dubai,Dubai,3 hr
+IndiGo,6.00E+274,7:20 PM,BOM,Mumbai,India,DXB,9:05 PM,Dubai,Dubai,3 hr 15 min
+Air Arabia,G90314,4:15 AM,MAA,Chennai,India,SHJ,6:45 AM,Sharjha,Dubai,4 hr
+Air Arabia,G90315,4:20 AM,HYD,Hyderabad,India,SHJ,6:25 AM,Sharjha,Dubai,3 hr 35 min
+IndiGo,6.00E+275,4:35 AM,MAA,Chennai,India,SHJ,3:55 AM+1,Sharjha,Dubai,24 hr 50 min
+IndiGo,6.00E+276,6:30 AM,MAA,Chennai,India,DXB,9:10 AM,Dubai,Dubai,4 hr 10 min
+IndiGo,6.00E+277,1:45 PM,HYD,Hyderabad,India,DXB,4:05 PM,Dubai,Dubai,3 hr 50 min
+IndiGo,6.00E+278,10:15 PM,HYD,Hyderabad,India,SHJ,12:40 AM+1,Sharjha,Dubai,3 hr 55 min
+IndiGo,6.00E+279,8:10 AM,BOM,Mumbai,India,DXB,9:40 AM,Dubai,Dubai,3 hr
+IndiGo,6.00E+280,3:25 PM,BOM,Mumbai,India,DXB,4:55 PM,Dubai,Dubai,3 hr
+Etihad,EY206,10:55 AM,BOM,Mumbai,India,AUH,12:30 PM,Abu Dhabi,Dubai,3 hr 5 min
+Air India,AI024,8:25 PM,BOM,Mumbai,India,DXB,9:55 PM,Dubai,Dubai,3 hr
+IndiGo,6.00E+281,7:50 AM,MAA,Chennai,India,SHJ,12:40 AM+1,Sharjha,Dubai,18 hr 20 min
+IndiGo,6.00E+282,9:20 AM,MAA,Chennai,India,SHJ,12:40 AM+1,Sharjha,Dubai,16 hr 50 min
+IndiGo,6.00E+283,11:45 AM,MAA,Chennai,India,SHJ,3:55 AM+1,Sharjha,Dubai,17 hr 40 min
+IndiGo,6.00E+284,12:15 PM,MAA,Chennai,India,SHJ,12:40 AM+1,Sharjha,Dubai,13 hr 55 min
+IndiGo,6.00E+285,5:30 PM,MAA,Chennai,India,SHJ,12:40 AM+1,Sharjha,Dubai,8 hr 40 min
+IndiGo,6.00E+286,10:15 PM,MAA,Chennai,India,SHJ,12:40 AM+2,Sharjha,Dubai,27 hr 55 min
+Air India,AI025,8:25 AM,BOM,Mumbai,India,DXB,10:00 AM,Dubai,Dubai,3 hr 5 min
+Emirates,EK501,4:30 AM,BOM,Mumbai,India,DXB,6:00 AM,Dubai,Dubai,3 hr
+Emirates,EK502,3:35 PM,BOM,Mumbai,India,DXB,5:20 PM,Dubai,Dubai,3 hr 15 min
+Emirates,EK503,7:20 PM,BOM,Mumbai,India,DXB,9:00 PM,Dubai,Dubai,3 hr 10 min
+Emirates,EK504,10:20 PM,BOM,Mumbai,India,DXB,12:05 AM+1,Dubai,Dubai,3 hr 15 min
+Etihad,EY207,4:10 AM,MAA,Chennai,India,AUH,6:55 AM,Abu Dhabi,Dubai,4 hr 15 min
+IndiGo,6.00E+287,12:35 AM,BOM,Mumbai,India,AUH,1:55 AM,Abu Dhabi,Dubai,2 hr 50 min
+IndiGo,6.00E+288,10:15 PM,BOM,Mumbai,India,AUH,11:45 PM,Abu Dhabi,Dubai,3 hr
+IndiGo,6.00E+289,7:00 PM,MAA,Chennai,India,SHJ,12:40 AM+1,Sharjha,Dubai,7 hr 10 min
+IndiGo,6.00E+290,12:30 AM,MAA,Chennai,India,AUH,3:05 AM,Abu Dhabi,Dubai,4 hr 5 min
+IndiGo,6.00E+291,6:00 AM,HYD,Hyderabad,India,SHJ,3:55 AM+1,Sharjha,Dubai,23 hr 25 min
+Vistara,UK504,9:30 PM,BOM,Mumbai,India,AUH,11:15 PM,Abu Dhabi,Dubai,3 hr 15 min
+IndiGo,6.00E+292,5:40 AM,MAA,Chennai,India,AUH,11:55 PM,Abu Dhabi,Dubai,19 hr 45 min
+IndiGo,6.00E+293,9:20 AM,BOM,Mumbai,India,AUH,11:55 PM,Abu Dhabi,Dubai,16 hr 5 min
+IndiGo,6.00E+294,3:10 PM,BOM,Mumbai,India,AUH,11:55 PM,Abu Dhabi,Dubai,10 hr 15 min
+IndiGo,6.00E+295,6:05 PM,BOM,Mumbai,India,AUH,11:55 PM,Abu Dhabi,Dubai,7 hr 20 min
+IndiGo,6.00E+296,3:45 PM,MAA,Chennai,India,SHJ,12:40 AM+1,Sharjha,Dubai,10 hr 25 min
+IndiGo,6.00E+297,6:50 AM,MAA,Chennai,India,AUH,11:30 PM,Abu Dhabi,Dubai,18 hr 10 min
+IndiGo,6.00E+298,8:50 AM,MAA,Chennai,India,AUH,11:30 PM,Abu Dhabi,Dubai,16 hr 10 min
+IndiGo,6.00E+299,11:40 AM,MAA,Chennai,India,AUH,11:30 PM,Abu Dhabi,Dubai,13 hr 20 min
+IndiGo,6.00E+300,6:25 AM,HYD,Hyderabad,India,AUH,11:55 PM,Abu Dhabi,Dubai,19 hr
+Etihad,EY204,4:30 AM,BOM,Mumbai,India,AUH,6:05 AM,Abu Dhabi,Dubai,3 hr 5 min
+IndiGo,6.00E+275,4:35 AM,MAA,Chennai,India,SHJ,3:55 AM+1,Sharjha,Dubai,24 hr 50 min
+IndiGo,6.00E+276,6:30 AM,MAA,Chennai,India,DXB,9:10 AM,Dubai,Dubai,4 hr 10 min
+IndiGo,6.00E+277,1:45 PM,HYD,Hyderabad,India,DXB,4:05 PM,Dubai,Dubai,3 hr 50 min
+IndiGo,6.00E+278,10:15 PM,HYD,Hyderabad,India,SHJ,12:40 AM+1,Sharjha,Dubai,3 hr 55 min
+IndiGo,6.00E+279,8:10 AM,BOM,Mumbai,India,DXB,9:40 AM,Dubai,Dubai,3 hr
+IndiGo,6.00E+280,3:25 PM,BOM,Mumbai,India,DXB,4:55 PM,Dubai,Dubai,3 hr
+Etihad,EY206,10:55 AM,BOM,Mumbai,India,AUH,12:30 PM,Abu Dhabi,Dubai,3 hr 5 min
+Air India,AI024,8:25 PM,BOM,Mumbai,India,DXB,9:55 PM,Dubai,Dubai,3 hr
+IndiGo,6.00E+281,7:50 AM,MAA,Chennai,India,SHJ,12:40 AM+1,Sharjha,Dubai,18 hr 20 min
+IndiGo,6.00E+282,9:20 AM,MAA,Chennai,India,SHJ,12:40 AM+1,Sharjha,Dubai,16 hr 50 min
+IndiGo,6.00E+283,11:45 AM,MAA,Chennai,India,SHJ,3:55 AM+1,Sharjha,Dubai,17 hr 40 min
+IndiGo,6.00E+284,12:15 PM,MAA,Chennai,India,SHJ,12:40 AM+1,Sharjha,Dubai,13 hr 55 min
+IndiGo,6.00E+285,5:30 PM,MAA,Chennai,India,SHJ,12:40 AM+1,Sharjha,Dubai,8 hr 40 min
+IndiGo,6.00E+286,10:15 PM,MAA,Chennai,India,SHJ,12:40 AM+2,Sharjha,Dubai,27 hr 55 min
+Air India,AI025,8:25 AM,BOM,Mumbai,India,DXB,10:00 AM,Dubai,Dubai,3 hr 5 min
+Emirates,EK501,4:30 AM,BOM,Mumbai,India,DXB,6:00 AM,Dubai,Dubai,3 hr
+Emirates,EK502,3:35 PM,BOM,Mumbai,India,DXB,5:20 PM,Dubai,Dubai,3 hr 15 min
+Emirates,EK503,7:20 PM,BOM,Mumbai,India,DXB,9:00 PM,Dubai,Dubai,3 hr 10 min
+Emirates,EK504,10:20 PM,BOM,Mumbai,India,DXB,12:05 AM+1,Dubai,Dubai,3 hr 15 min
+Etihad,EY207,4:10 AM,MAA,Chennai,India,AUH,6:55 AM,Abu Dhabi,Dubai,4 hr 15 min
+IndiGo,6.00E+287,12:35 AM,BOM,Mumbai,India,AUH,1:55 AM,Abu Dhabi,Dubai,2 hr 50 min
+IndiGo,6.00E+288,10:15 PM,BOM,Mumbai,India,AUH,11:45 PM,Abu Dhabi,Dubai,3 hr
+IndiGo,6.00E+289,7:00 PM,MAA,Chennai,India,SHJ,12:40 AM+1,Sharjha,Dubai,7 hr 10 min
+IndiGo,6.00E+290,12:30 AM,MAA,Chennai,India,AUH,3:05 AM,Abu Dhabi,Dubai,4 hr 5 min
+IndiGo,6.00E+291,6:00 AM,HYD,Hyderabad,India,SHJ,3:55 AM+1,Sharjha,Dubai,23 hr 25 min
+Vistara,UK504,9:30 PM,BOM,Mumbai,India,AUH,11:15 PM,Abu Dhabi,Dubai,3 hr 15 min
+IndiGo,6.00E+292,5:40 AM,MAA,Chennai,India,AUH,11:55 PM,Abu Dhabi,Dubai,19 hr 45 min
+IndiGo,6.00E+293,9:20 AM,BOM,Mumbai,India,AUH,11:55 PM,Abu Dhabi,Dubai,16 hr 5 min
+IndiGo,6.00E+294,3:10 PM,BOM,Mumbai,India,AUH,11:55 PM,Abu Dhabi,Dubai,10 hr 15 min
+IndiGo,6.00E+295,6:05 PM,BOM,Mumbai,India,AUH,11:55 PM,Abu Dhabi,Dubai,7 hr 20 min
+IndiGo,6.00E+296,3:45 PM,MAA,Chennai,India,SHJ,12:40 AM+1,Sharjha,Dubai,10 hr 25 min
+IndiGo,6.00E+297,6:50 AM,MAA,Chennai,India,AUH,11:30 PM,Abu Dhabi,Dubai,18 hr 10 min
+IndiGo,6.00E+298,8:50 AM,MAA,Chennai,India,AUH,11:30 PM,Abu Dhabi,Dubai,16 hr 10 min
+IndiGo,6.00E+299,11:40 AM,MAA,Chennai,India,AUH,11:30 PM,Abu Dhabi,Dubai,13 hr 20 min
+IndiGo,6.00E+300,6:25 AM,HYD,Hyderabad,India,AUH,11:55 PM,Abu Dhabi,Dubai,19 hr
+IndiGo,6.00E+301,11:50 PM,MAA,Chennai,India,AUH,2:35 AM,Abu Dhabi,Dubai,4 hr 15 min
+"Self-transfer: AJet, Pegasus",N/A,3:20 AM,SHJ,Sharjha,United Arab Emirates,ORY,1:15 PM,Paris,Dubai,11 hr 55 min
+Self-transfer: Pegasus,N/A,4:50 AM,SHJ,Sharjha,United Arab Emirates,ORY,1:15 PM,Paris,Dubai,10 hr 25 min
+Pegasus,N/A,4:50 AM,SHJ,Sharjha,United Arab Emirates,BER,12:10 PM,Berlin,Dubai,9 hr 20 min
+Self-transfer: Wizz Air,N/A,9:20 PM,DXB,Dubai,United Arab Emirates,BVA,12:45 PM+1,Paris,Dubai,17 hr 25 min
+"Self-transfer: Air Arabia, Wizz Air",N/A,3:15 PM,SHJ,Sharjha,United Arab Emirates,BVA,12:45 PM+1,Paris,Dubai,23 hr 30 min
+"Self-transfer: Wizz Air, Vueling",N/A,9:20 PM,DXB,Dubai,United Arab Emirates,ORY,10:35 PM+1,Paris,Dubai,27 hr 15 min
+"Self-transfer: Wizz Air, Vueling",N/A,9:20 PM,DXB,Dubai,United Arab Emirates,ORY,12:10 PM+1,Paris,Dubai,16 hr 50 min
+Self-transfer: Pegasus,N/A,4:50 AM,SHJ,Sharjha,United Arab Emirates,ORY,4:20 PM,Paris,Dubai,13 hr 30 min
+Royal Jordanian,N/A,9:50 PM,DXB,Dubai,United Arab Emirates,LHR,3:25 PM+1,London,Dubai,20 hr 35 min
+"Self-transfer: Air Arabia, Transavia",N/A,9:30 AM,SHJ,Sharjha,United Arab Emirates,ORY,8:25 PM,Paris,Dubai,12 hr 55 min
+"Self-transfer: AJet, Pegasus",N/A,3:30 AM,DXB,Dubai,United Arab Emirates,ORY,1:15 PM,Paris,Dubai,11 hr 45 min
+Air France,N/A,12:40 AM,DXB,Dubai,United Arab Emirates,CDG,6:20 AM,Paris,Dubai,7 hr 40 min
+Self-transfer: Pegasus,N/A,4:50 AM,SHJ,Sharjha,United Arab Emirates,FCO,1:45 PM,Rome,Dubai,10 hr 55 min
+"Self-transfer: Air Arabia, Wizz Air",N/A,8:05 AM,SHJ,Sharjha,United Arab Emirates,FCO,4:10 PM,Rome,Dubai,10 hr 5 min
+Pegasus,N/A,4:25 AM,DXB,Dubai,United Arab Emirates,FCO,1:45 PM,Rome,Dubai,11 hr 20 min
+Saudia,N/A,5:00 AM,DXB,Dubai,United Arab Emirates,FCO,2:40 PM,Rome,Dubai,11 hr 40 min
+Emirates,N/A,9:10 AM,DXB,Dubai,United Arab Emirates,FCO,1:25 PM,Rome,Dubai,6 hr 15 min
+"Self-transfer: AJet, Pegasus, Wizz Air",N/A,3:20 AM,SHJ,Sharjha,United Arab Emirates,FCO,10:50 PM,Rome,Dubai,21 hr 30 min
+"Self-transfer: Flynas, Wizz Air",N/A,6:20 PM,SHJ,Sharjha,United Arab Emirates,FCO,7:40 AM+1,Rome,Dubai,15 hr 20 min
+"Self-transfer: Air Arabia, Wizz Air",N/A,2:00 PM,SHJ,Sharjha,United Arab Emirates,FCO,12:10 AM+1,Rome,Dubai,12 hr 10 min
+Self-transfer: AJet (Operated by Turkish Airlines),N/A,3:20 AM,SHJ,Sharjha,United Arab Emirates,FCO,11:30 AM,Rome,Dubai,10 hr 10 min
+Qatar Airways,N/A,9:15 PM,SHJ,Sharjha,United Arab Emirates,MAD,9:00 PM+1,Madrid,Dubai,25 hr 45 min
+Saudia,N/A,11:00 PM,DXB,Dubai,United Arab Emirates,FCO,2:40 PM+1,Rome,Dubai,17 hr 40 min
+KLM (Operated by KLM Cityhopper),N/A,12:55 AM,DXB,Dubai,United Arab Emirates,DUB,8:20 AM,Dublin,Dubai,10 hr 25 min
+Emirates,N/A,7:40 AM,DXB,Dubai,United Arab Emirates,MAD,12:15 PM,Madrid,Dubai,7 hr 45 min
+Emirates,N/A,2:30 PM,DXB,Dubai,United Arab Emirates,MAD,8:20 PM,Madrid,Dubai,7 hr 50 min
+Emirates,N/A,3:45 PM,DXB,Dubai,United Arab Emirates,FCO,8:05 PM,Rome,Dubai,6 hr 20 min
+Emirates,N/A,7:20 AM,DXB,Dubai,United Arab Emirates,DUB,12:15 PM,Dublin,Dubai,7 hr 55 min
+Emirates,N/A,3:15 PM,DXB,Dubai,United Arab Emirates,DUB,8:10 PM,Dublin,Dubai,7 hr 55 min
+"Emirates, Aegean",N/A,10:50 AM,DXB,Dubai,United Arab Emirates,FCO,5:30 PM,Rome,Dubai,8 hr 40 min
+Pegasus,N/A,5:10 AM,RUH,Riyadh,Saudi Arabia,FCO,1:45 PM,Rome,Riyadh,9 hr 35 min
+ITA Saudia,N/A,1:45 AM,RUH,Riyadh,Saudi Arabia,FCO,6:35 AM,Rome,Riyadh,5 hr 50 min
+Saudia ITA,N/A,9:55 AM,RUH,Riyadh,Saudi Arabia,FCO,2:40 PM,Rome,Riyadh,5 hr 45 min
+ITA,N/A,1:45 AM,RUH,Riyadh,Saudi Arabia,MAD,10:45 AM,Madrid,Riyadh,10 hr
+Turkish Airlines,N/A,12:15 PM,RUH,Riyadh,Saudi Arabia,MAD,10:30 AM+1,Madrid,Riyadh,23 hr 15 min
+British Airways,N/A,12:35 AM,RUH,Riyadh,Saudi Arabia,DUB,8:15 AM,Dublin,Riyadh,9 hr 40 min
+Saudia,N/A,11:55 PM,RUH,Riyadh,Saudi Arabia,FCO,2:40 PM+1,Rome,Riyadh,15 hr 45 min
+Turkish Airlines,N/A,6:25 AM,RUH,Riyadh,Saudi Arabia,FCO,2:30 PM,Rome,Riyadh,9 hr 5 min
+Etihad,N/A,10:35 PM,RUH,Riyadh,Saudi Arabia,MAD,8:25 AM+1,Madrid,Riyadh,10 hr 50 min
+Etihad,N/A,10:05 AM,RUH,Riyadh,Saudi Arabia,FCO,6:50 PM,Rome,Riyadh,9 hr 45 min
+Etihad,N/A,10:35 PM,RUH,Riyadh,Saudi Arabia,FCO,6:35 AM+1,Rome,Riyadh,9 hr
+Pegasus,N/A,2:50 PM,FCO,Rome,Italy,RUH,4:05 AM+1,Riyadh,Rome,12 hr 15 min
+ITA Saudia,N/A,3:15 PM,FCO,Rome,Italy,RUH,9:25 PM,Riyadh,Rome,5 hr 10 min
+Saudia ITA,N/A,4:10 PM,FCO,Rome,Italy,RUH,10:25 PM,Riyadh,Rome,5 hr 15 min
+Lufthansa,N/A,9:05 AM,DUB,Dublin,Ireland,RUH,7:55 PM,Riyadh,Dublin,8 hr 50 min
+LOT,N/A,3:30 PM,MAD,Madrid,Spain,RUH,9:50 PM+1,Riyadh,Madrid,29 hr 20 min
+"SWISS, Lufthansa",N/A,8:25 PM,DUB,Dublin,Ireland,RUH,7:55 PM+1,Riyadh,Dublin,21 hr 30 min
+Lufthansa,N/A,10:05 AM,FCO,Rome,Italy,RUH,7:55 PM,Riyadh,Rome,8 hr 50 min
+Turkish Airlines,N/A,8:05 PM,FCO,Rome,Italy,RUH,5:25 AM+1,Riyadh,Rome,8 hr 20 min
+Etihad,N/A,10:35 PM,FCO,Rome,Italy,RUH,9:00 AM+1,Riyadh,Rome,9 hr 25 min
+Qatar Airways,N/A,4:10 PM,FCO,Rome,Italy,RUH,1:00 AM+1,Riyadh,Rome,7 hr 50 min
+Pegasus,N/A,4:45 PM,STN,London,UK,RUH,4:05 AM+1,Riyadh,London,9 hr 20 min
+Lufthansa,N/A,10:35 AM,CDG,Paris,France,RUH,7:55 PM,Riyadh,Paris,8 hr 20 min
+Flynas,N/A,9:35 AM,BER,Berlin,Germany,RUH,8:35 PM,Riyadh,Berlin,10 hr
+Pegasus,N/A,5:25 PM,ORY,Paris,France,RUH,4:05 AM+1,Riyadh,Paris,9 hr 40 min
+Pegasus,N/A,1:15 PM,BER,Berlin,Germany,RUH,4:05 AM+1,Riyadh,Berlin,13 hr 50 min
+LOT,N/A,7:00 PM,BER,Berlin,Germany,RUH,9:50 PM+1,Riyadh,Berlin,25 hr 50 min
+"Air France, KLM",N/A,1:25 PM,CDG,Paris,France,RUH,10:55 PM,Riyadh,Paris,8 hr 30 min
+"KLM, Air France",N/A,10:15 AM,CDG,Paris,France,RUH,10:55 PM,Riyadh,Paris,11 hr 40 min
+Royal Jordanian,N/A,7:30 AM,CDG,Paris,France,RUH,6:25 PM,Riyadh,Paris,9 hr 55 min
+Qatar Airways,N/A,4:00 PM,LHR,London,UK,RUH,3:30 AM+1,Riyadh,London,9 hr 30 min
+Saudia,N/A,10:00 AM,LHR,London,UK,RUH,6:45 PM,Riyadh,London,6 hr 45 min
+Saudia,N/A,4:15 PM,LHR,London,UK,RUH,1:00 AM+1,Riyadh,London,6 hr 45 min
+Saudia,N/A,12:50 PM,LHR,London,UK,RUH,9:35 PM,Riyadh,London,6 hr 45 min
+"Saudia, Air France",N/A,12:00 PM,CDG,Paris,France,RUH,7:20 PM,Riyadh,Paris,6 hr 20 min
+British Airways,N/A,2:05 PM,LHR,London,UK,RUH,10:45 PM,Riyadh,London,6 hr 40 min
+Pegasus,N/A,2:40 PM,STN,London,UK,SHJ,3:50 AM+1,Sharjha,London,10 hr 10 min
+"Pegasus, AJet",N/A,2:20 PM,ORY,Paris,France,SHJ,2:00 AM+1,Sharjha,Paris,9 hr 40 min
+Saudia,N/A,3:55 PM,CDG,Paris,France,DXB,4:35 AM+1,Dubai,Paris,10 hr 40 min
+British Airways,N/A,10:25 PM,LHR,London,UK,AUH,8:30 AM+1,Abu Dhabi,London,7 hr 5 min
+"Etihad, Air France",N/A,10:20 AM,CDG,Paris,France,AUH,7:00 PM,Abu Dhabi,Paris,6 hr 40 min
+Wizz Air,N/A,9:00 PM,BVA,Paris,France,DXB,8:30 PM+1,Dubai,Paris,21 hr 30 min
+Pegasus,N/A,2:20 PM,ORY,Paris,France,SHJ,3:50 AM+1,Sharjha,Paris,11 hr 30 min
+Pegasus,N/A,4:30 PM,BER,Berlin,Germany,SHJ,3:50 AM+1,Sharjha,Berlin,9 hr 20 min
+Pegasus,N/A,1:15 PM,BER,Berlin,Germany,AUH,3:55 AM+1,Abu Dhabi,Berlin,12 hr 40 min
+Etihad,N/A,8:55 PM,LHR,London,UK,AUH,6:45 AM+1,Abu Dhabi,London,6 hr 50 min
+Etihad,N/A,2:50 PM,LHR,London,UK,AUH,12:40 AM+1,Abu Dhabi,London,6 hr 50 min
+Etihad,N/A,9:30 AM,LHR,London,UK,AUH,7:25 PM,Abu Dhabi,London,6 hr 55 min
+Etihad,N/A,9:50 PM,LHR,London,UK,AUH,7:45 AM+1,Abu Dhabi,London,6 hr 55 min
+British Airways,N/A,9:30 PM,LHR,London,UK,DXB,7:35 AM+1,Dubai,London,7 hr 5 min
+British Airways,N/A,10:25 PM,LHR,London,UK,DXB,8:30 AM+1,Dubai,London,7 hr 5 min
+Wizz Air Abu Dhabi LLC dba Wizz Air,N/A,7:15 PM,FCO,Rome,Italy,AUH,3:20 AM+1,Abu Dhabi,Rome,6 hr 5 min
+Royal Jordanian,N/A,3:55 PM,FCO,Rome,Italy,DXB,3:35 AM+1,Dubai,Rome,9 hr 40 min
+"Etihad, ITA",N/A,10:50 AM,FCO,Rome,Italy,AUH,6:55 PM,Abu Dhabi,Rome,6 hr 5 min
+Pegasus,N/A,2:50 PM,FCO,Rome,Italy,SHJ,3:50 AM+1,Sharjha,Rome,11 hr
+KLM,N/A,10:20 AM,MAD,Madrid,Spain,DXB,11:00 PM,Dubai,Madrid,10 hr 40 min
+Qatar Airways,N/A,10:30 PM,FCO,Rome,Italy,SHJ,9:50 AM+1,Sharjha,Rome,9 hr 20 min
+"KLM, Air France",N/A,1:20 PM,DUB,Dublin,Ireland,AUH,7:00 AM+1,Abu Dhabi,Dublin,14 hr 40 min
+"Etihad, ITA",N/A,10:35 PM,FCO,Rome,Italy,AUH,6:40 AM+1,Abu Dhabi,Rome,6 hr 5 min
+Emirates,N/A,2:20 PM,DUB,Dublin,Ireland,DXB,12:50 AM+1,Dubai,Dublin,7 hr 30 min
+Emirates,N/A,10:05 PM,DUB,Dublin,Ireland,DXB,8:30 AM+1,Dubai,Dublin,7 hr 25 min
+Etihad,N/A,9:10 AM,DUB,Dublin,Ireland,AUH,7:30 PM,Abu Dhabi,Dublin,7 hr 20 min
+Pegasus,N/A,2:50 PM,FCO,Rome,Italy,DOH,2:55 AM+1,Doha,Rome,11 hr 5 min
+Etihad,N/A,9:10 AM,DUB,Dublin,Ireland,DOH,9:45 PM,Doha,Dublin,10 hr 35 min
+Qatar Airways,N/A,8:15 AM,DUB,Dublin,Ireland,DOH,5:20 PM,Doha,Dublin,7 hr 5 min
+Pegasus,N/A,2:55 PM,MAD,Madrid,Spain,DOH,2:55 AM+1,Doha,Madrid,11 hr
+Royal Jordanian,N/A,3:55 PM,FCO,Rome,Italy,DOH,12:55 PM+1,Doha,Rome,20 hr
+Qatar Airways,N/A,3:00 PM,DUB,Dublin,Ireland,DOH,12:05 AM+1,Doha,Dublin,7 hr 5 min
+"Qatar Airways, Iberia",N/A,5:40 PM,MAD,Madrid,Spain,DOH,1:25 AM+1,Doha,Madrid,6 hr 45 min
+Qatar Airways,N/A,9:40 AM,FCO,Rome,Italy,DOH,4:05 PM,Doha,Rome,5 hr 25 min
+Qatar Airways,N/A,4:10 PM,FCO,Rome,Italy,DOH,10:35 PM,Doha,Rome,5 hr 25 min
+Qatar Airways,N/A,10:30 PM,FCO,Rome,Italy,DOH,4:55 AM+1,Doha,Rome,5 hr 25 min
+Turkish Airlines,N/A,3:30 PM,FCO,Rome,Italy,DOH,12:55 AM+1,Doha,Rome,8 hr 25 min
+Qatar Airways,N/A,10:30 PM,MAD,Madrid,Spain,DOH,6:15 AM+1,Doha,Madrid,6 hr 45 min
+"Iberia, Qatar Airways",N/A,9:30 AM,MAD,Madrid,Spain,DOH,5:35 PM,Doha,Madrid,7 hr 5 min
+Pegasus,N/A,2:05 AM,DOH,Doha,Qatar,FCO,10:50 AM,Rome,Rome,9 hr 45 min
+Etihad,N/A,10:50 PM,DOH,Doha,Qatar,DUB,7:35 AM+1,Dublin,Dublin,10 hr 45 min
+"EgyptAir, Air Cairo",N/A,4:20 AM,DOH,Doha,Qatar,FCO,1:00 PM,Rome,Rome,9 hr 40 min
+Royal Jordanian,N/A,6:35 AM,DOH,Doha,Qatar,MAD,3:25 PM,Madrid,Madrid,9 hr 50 min
+Gulf Air,N/A,10:30 PM,DOH,Doha,Qatar,FCO,3:15 PM+1,Rome,Rome,17 hr 45 min
+Etihad,N/A,10:50 PM,DOH,Doha,Qatar,MAD,8:25 AM+1,Madrid,Madrid,10 hr 35 min
+Royal Jordanian,N/A,6:35 AM,DOH,Doha,Qatar,FCO,2:40 PM,Rome,Rome,9 hr 5 min
+Turkish Airlines,N/A,1:55 AM,DOH,Doha,Qatar,FCO,9:50 AM,Rome,Rome,8 hr 55 min
+Etihad,N/A,10:50 PM,DOH,Doha,Qatar,FCO,6:35 AM+1,Rome,Rome,8 hr 45 min
+"Iberia, Qatar Airways",N/A,9:05 AM,DOH,Doha,Qatar,MAD,3:35 PM,Madrid,Madrid,7 hr 30 min
+"Qatar Airways, Iberia",N/A,2:30 PM,DOH,Doha,Qatar,MAD,9:00 PM,Madrid,Madrid,7 hr 30 min
+Qatar Airways,N/A,1:10 AM,DOH,Doha,Qatar,DUB,6:45 AM,Dublin,Dublin,7 hr 35 min
+Qatar Airways,N/A,7:55 AM,DOH,Doha,Qatar,DUB,1:30 PM,Dublin,Dublin,7 hr 35 min
+"Iberia, Qatar Airways",N/A,12:50 AM,DOH,Doha,Qatar,MAD,7:25 AM,Madrid,Madrid,7 hr 35 min
+Qatar Airways,N/A,2:35 AM,DOH,Doha,Qatar,FCO,7:25 AM,Rome,Rome,5 hr 50 min
+Qatar Airways,N/A,9:25 AM,DOH,Doha,Qatar,FCO,2:15 PM,Rome,Rome,5 hr 50 min
+Qatar Airways,N/A,4:05 PM,DOH,Doha,Qatar,FCO,8:55 PM,Rome,Rome,5 hr 50 min
+Pegasus,N/A,2:05 AM,DOH,Doha,Qatar,ORY,1:15 PM,Paris,Paris,12 hr 10 min
+Pegasus,N/A,2:05 AM,DOH,Doha,Qatar,BER,12:10 PM,Berlin,Berlin,11 hr 5 min
+Etihad,N/A,4:10 AM,DOH,Doha,Qatar,LHR,3:15 PM,London,London,13 hr 5 min
+Pegasus,N/A,2:05 AM,DOH,Doha,Qatar,STN,10:55 AM,London,London,10 hr 50 min
+Etihad,N/A,10:50 PM,DOH,Doha,Qatar,LHR,3:15 PM+1,London,London,18 hr 25 min
+Royal Air Maroc,N/A,1:35 AM,DOH,Doha,Qatar,LHR,4:50 PM+1,London,London,41 hr 15 min
+Royal Jordanian,N/A,6:35 AM,DOH,Doha,Qatar,LHR,3:25 PM,London,London,10 hr 50 min
+Royal Jordanian,N/A,6:35 AM,DOH,Doha,Qatar,CDG,2:50 PM,Paris,Paris,9 hr 15 min
+Etihad,N/A,4:10 AM,DOH,Doha,Qatar,LHR,12:45 PM,London,London,10 hr 35 min
+"Iberia, Qatar Airways",N/A,1:35 AM,DOH,Doha,Qatar,CDG,7:25 AM,Paris,Paris,6 hr 50 min
+"Qatar Airways, Iberia",N/A,9:30 AM,DOH,Doha,Qatar,CDG,3:20 PM,Paris,Paris,6 hr 50 min
+Air Arabia,N/A,8:10 PM,DOH,Doha,Qatar,BOM,4:15 AM+1,Mumbai,Mumbai,5 hr 35 min
+Oman Air,N/A,9:45 PM,DOH,Doha,Qatar,BLR,7:40 AM+1,Bengaluru,India,7 hr 25 min
+Gulf Air,N/A,8:15 PM,DOH,Doha,Qatar,BOM,4:55 AM+1,Mumbai,Mumbai,6 hr 10 min
+Etihad,N/A,10:30 AM,DOH,Doha,Qatar,MAA,8:35 PM,Chennai,Chennai,7 hr 35 min
+Vistara,N/A,8:05 PM,DOH,Doha,Qatar,BOM,2:20 AM+1,Mumbai,Mumbai,3 hr 45 min
+flydubai,N/A,10:25 PM,DOH,Doha,Qatar,BOM,4:20 AM+2,Mumbai,Mumbai,27 hr 25 min
+flydubai,N/A,10:25 PM,DOH,Doha,Qatar,DEL,3:10 AM+2,New Delhi,New Delhi,26 hr 15 min
+Air Arabia,N/A,9:55 AM,DOH,Doha,Qatar,BOM,9:10 PM,Mumbai,Mumbai,8 hr 45 min
+Oman Air,N/A,9:45 PM,DOH,Doha,Qatar,BOM,1:20 PM+1,Mumbai,Mumbai,13 hr 5 min
+flydubai,N/A,10:25 PM,DOH,Doha,Qatar,HYD,2:05 AM+2,Hyderabad,Hyderabad,25 hr 10 min
+Gulf Air,N/A,11:25 AM,DOH,Doha,Qatar,DEL,8:50 PM,New Delhi,New Delhi,6 hr 55 min
+Air Arabia,N/A,9:55 AM,DOH,Doha,Qatar,DEL,5:55 PM,New Delhi,New Delhi,5 hr 30 min
+Air Arabia,N/A,8:10 PM,DOH,Doha,Qatar,DEL,4:00 AM+1,New Delhi,New Delhi,5 hr 20 min
+Oman Air,N/A,9:45 PM,DOH,Doha,Qatar,MAA,7:25 AM+1,Chennai,Chennai,7 hr 10 min
+Air India,N/A,10:10 PM,DOH,Doha,Qatar,DEL,4:20 AM+1,New Delhi,New Delhi,3 hr 40 min
+Air India,N/A,10:15 PM,DOH,Doha,Qatar,BOM,4:25 AM+1,Mumbai,Mumbai,3 hr 40 min
+"IndiGo, Qatar Airways",N/A,2:10 PM,DOH,Doha,Qatar,BOM,8:15 PM,Mumbai,Mumbai,3 hr 35 min
+Qatar Airways,N/A,7:50 PM,DOH,Doha,Qatar,MAA,2:50 AM+1,Chennai,Chennai,4 hr 30 min
+Qatar Airways,N/A,8:45 PM,DOH,Doha,Qatar,BOM,2:40 AM+1,Mumbai,Mumbai,3 hr 25 min
+Qatar Airways,N/A,2:20 AM,DOH,Doha,Qatar,DEL,8:45 AM,New Delhi,New Delhi,3 hr 55 min
+"IndiGo, Qatar Airways",N/A,2:00 AM,DOH,Doha,Qatar,BOM,8:05 AM,Mumbai,Mumbai,3 hr 35 min
+"IndiGo, Qatar Airways",N/A,8:05 PM,DOH,Doha,Qatar,BOM,2:10 AM+1,Mumbai,Mumbai,3 hr 35 min
+Qatar Airways,N/A,7:15 PM,DOH,Doha,Qatar,HYD,2:00 AM+1,Hyderabad,Hyderabad,4 hr 15 min
+"IndiGo, Qatar Airways",N/A,8:40 PM,DOH,Doha,Qatar,DEL,2:55 AM+1,New Delhi,New Delhi,3 hr 45 min
+Qatar Airways,N/A,7:30 PM,DOH,Doha,Qatar,DEL,1:55 AM+1,New Delhi,New Delhi,3 hr 55 min
+"IndiGo, Qatar Airways",N/A,7:55 PM,DOH,Doha,Qatar,MAA,3:00 AM+1,Chennai,Chennai,4 hr 35 min
+"IndiGo, Qatar Airways",N/A,2:00 AM,DOH,Doha,Qatar,HYD,8:40 AM,Hyderabad,Hyderabad,4 hr 10 min
+"IndiGo, Qatar Airways",N/A,8:35 AM,DOH,Doha,Qatar,HYD,3:15 PM,Hyderabad,Hyderabad,4 hr 10 min
+"IndiGo, Qatar Airways",N/A,7:45 PM,DOH,Doha,Qatar,HYD,2:25 AM+1,Hyderabad,Hyderabad,4 hr 10 min
+Qatar Airways,N/A,7:35 PM,DOH,Doha,Qatar,BLR,2:25 AM+1,Bengaluru,India,4 hr 20 min
+"IndiGo, Qatar Airways",N/A,7:45 PM,DOH,Doha,Qatar,BLR,2:35 AM+1,Bengaluru,India,4 hr 20 min
+"IndiGo, Qatar Airways",N/A,8:45 AM,DOH,Doha,Qatar,DEL,3:00 PM,New Delhi,New Delhi,3 hr 45 min
+Qatar Airways,N/A,6:40 PM,DOH,Doha,Qatar,CCU,2:20 AM+1,Kolkata,India,5 hr 10 min
+Oman Air,N/A,4:15 PM,BOM,Mumbai,India,DOH,8:45 PM,Doha,Mumbai,7 hr
+Etihad,N/A,1:55 PM,BOM,Mumbai,India,DOH,4:45 PM,Doha,Mumbai,5 hr 20 min
+Air India,N/A,8:10 PM,BOM,Mumbai,India,DOH,9:15 PM,Doha,Mumbai,3 hr 35 min
+Vistara,N/A,5:15 PM,BOM,Mumbai,India,DOH,7:05 PM,Doha,Mumbai,4 hr 20 min
+Oman Air,N/A,8:55 AM,DEL,New Delhi,India,DOH,3:00 PM,Doha,New Delhi,8 hr 35 min
+Oman Air,N/A,4:00 PM,DEL,New Delhi,India,DOH,8:45 PM,Doha,New Delhi,7 hr 15 min
+Oman Air,N/A,10:05 AM,BOM,Mumbai,India,DOH,3:00 PM,Doha,Mumbai,7 hr 25 min
+Norse Atlantic Airways,N/A,12:30 AM,JFK,New York,USA,CDG,1:35 PM,Paris,New York,7 hr 5 min
+"British Airways, American, Iberia, Alaska, Finnair",N/A,7:55 AM,JFK,New York,USA,LHR,7:45 PM,London,New York,6 hr 50 min
+"American, British Airways, Iberia, Finnair",N/A,9:35 AM,JFK,New York,USA,LHR,9:40 PM,London,New York,7 hr 5 min
+"American, British Airways, Iberia, Finnair",N/A,6:15 PM,JFK,New York,USA,LHR,6:20 AM+1,London,New York,7 hr 5 min
+"British Airways, American, Iberia, Alaska, Finnair",N/A,6:30 PM,JFK,New York,USA,LHR,6:30 AM+1,London,New York,7 hr
+"British Airways, American, Iberia, Alaska, Finnair",N/A,6:50 PM,JFK,New York,USA,LHR,6:55 AM+1,London,New York,7 hr 5 min
+"American, British Airways, Iberia, Finnair",N/A,7:20 PM,JFK,New York,USA,LHR,7:30 AM+1,London,New York,7 hr 10 min
+"British Airways, American, Iberia, Alaska, Finnair",N/A,7:35 PM,JFK,New York,USA,LHR,7:45 AM+1,London,New York,7 hr 10 min
+"British Airways, American, Iberia, Alaska, Finnair",N/A,8:10 PM,JFK,New York,USA,LHR,8:20 AM+1,London,New York,7 hr 10 min
+"British Airways, American, Iberia, Alaska, Finnair",N/A,8:55 PM,JFK,New York,USA,LHR,9:05 AM+1,London,New York,7 hr 10 min
+"British Airways, American, Iberia, Alaska, Finnair",N/A,9:30 PM,JFK,New York,USA,LHR,9:35 AM+1,London,New York,7 hr 5 min
+"American, British Airways, Iberia, Finnair",N/A,10:29 PM,JFK,New York,USA,LHR,10:30 AM+1,London,New York,7 hr 1 min
+"British Airways, American, Iberia, Alaska, Finnair",N/A,11:15 PM,JFK,New York,USA,LHR,11:15 AM+1,London,New York,7 hr
+"Iberia, Vueling",N/A,11:25 PM,JFK,New York,USA,LGW,9:05 PM+1,London,New York,16 hr 40 min
+"Iberia, Vueling",N/A,11:25 PM,JFK,New York,USA,LGW,8:25 PM+1,London,New York,16 hr
+"Virgin Atlantic, Air France, Delta, KLM",N/A,8:20 AM,JFK,New York,USA,LHR,8:10 PM,London,New York,6 hr 50 min
+"Virgin Atlantic, Air France, Delta, KLM",N/A,6:00 PM,JFK,New York,USA,LHR,6:20 AM+1,London,New York,7 hr 20 min
+"Virgin Atlantic, Air France, Delta, KLM",N/A,6:30 PM,JFK,New York,USA,LHR,6:45 AM+1,London,New York,7 hr 15 min
+"Virgin Atlantic, Air France, Delta, KLM",N/A,7:00 PM,JFK,New York,USA,LHR,7:15 AM+1,London,New York,7 hr 15 min
+"Delta, KLM, Virgin Atlantic",N/A,7:45 PM,JFK,New York,USA,LHR,8:05 AM+1,London,New York,7 hr 20 min
+"Virgin Atlantic, Air France, Delta, KLM",N/A,9:00 PM,JFK,New York,USA,LHR,9:25 AM+1,London,New York,7 hr 25 min
+"Delta, Air France, KLM, Virgin Atlantic",N/A,10:05 PM,JFK,New York,USA,LHR,10:15 AM+1,London,New York,7 hr 10 min
+"Virgin Atlantic, Air France, Delta, KLM",N/A,11:59 PM,JFK,New York,USA,LHR,12:15 PM+1,London,New York,7 hr 16 min
+Norse Atlantic UK,N/A,6:20 PM,JFK,New York,USA,LGW,6:20 AM+1,London,New York,7 hr
+"Air Canada, United, Brussels Airlines",N/A,3:45 PM,LGA,New York,USA,CDG,7:05 AM+1,Paris,New York,9 hr 20 min
+United (Operated by Republic Airways DBA United Express),N/A,2:50 PM,LGA,New York,USA,CDG,7:05 AM+1,Paris,New York,10 hr 15 min
+"British Airways, American, Iberia, Finnair",N/A,8:05 PM,JFK,New York,USA,LGW,8:10 AM+1,London,New York,7 hr 5 min
+"American, Iberia, British Airways, Finnair",N/A,5:29 PM,JFK,New York,USA,CDG,6:55 AM+1,Paris,New York,7 hr 26 min
+"United, Lufthansa, Brussels Airlines",N/A,6:10 PM,EWR,Newark,USA,CDG,7:45 AM+1,Paris,New York,7 hr 35 min
+"United, Lufthansa",N/A,9:20 PM,EWR,Newark,USA,CDG,10:55 AM+1,Paris,New York,7 hr 35 min
+"Delta, Virgin Atlantic",N/A,8:15 AM,JFK,New York,USA,CDG,9:35 PM,Paris,New York,7 hr 20 min
+"Air France, Delta",N/A,4:30 PM,JFK,New York,USA,CDG,5:55 AM+1,Paris,New York,7 hr 25 min
+JetBlue,N/A,5:21 PM,JFK,New York,USA,CDG,6:55 AM+1,Paris,New York,7 hr 34 min
+"Air France, Delta",N/A,5:30 PM,JFK,New York,USA,CDG,6:45 AM+1,Paris,New York,7 hr 15 min
+"Air France, Delta",N/A,6:30 PM,JFK,New York,USA,CDG,8:05 AM+1,Paris,New York,7 hr 35 min
+"Air France, Delta",N/A,9:30 PM,JFK,New York,USA,CDG,11:00 AM+1,Paris,New York,7 hr 30 min
+JetBlue,N/A,9:47 PM,JFK,New York,USA,CDG,11:25 AM+1,Paris,New York,7 hr 38 min
+"Delta, Virgin Atlantic",N/A,10:40 PM,JFK,New York,USA,CDG,12:10 PM+1,Paris,New York,7 hr 30 min
+Icelandair,N/A,7:30 PM,ORD,Chicago,USA,LHR,11:55 AM+1,London,Chicago,10 hr 25 min
+"Air Canada, United",N/A,10:55 AM,ORD,Chicago,USA,CDG,7:05 AM+1,Paris,Chicago,13 hr 10 min
+"United, Lufthansa, Brussels Airlines",N/A,6:15 PM,ORD,Chicago,USA,CDG,9:20 AM+1,Paris,Chicago,8 hr 5 min
+"American, Aer Lingus",N/A,10:40 PM,ORD,Chicago,USA,CDG,3:50 PM+1,Paris,Chicago,10 hr 10 min
+"Delta, KLM, Virgin Atlantic",N/A,1:35 PM,ORD,Chicago,USA,CDG,8:15 AM+1,Paris,Chicago,11 hr 40 min
+"Delta, KLM, Air France, Virgin Atlantic (Operated by SkyWest DBA Delta Connection)",N/A,2:00 PM,MDW,Chicago,USA,CDG,7:55 AM+1,Paris,Chicago,10 hr 55 min
+SWISS (Operated by Air Baltic),N/A,7:15 PM,ORD,Chicago,USA,CDG,2:15 PM+1,Paris,Chicago,12 hr
+Lufthansa (Operated by Air Baltic),N/A,9:25 PM,ORD,Chicago,USA,CDG,5:15 PM+1,Paris,Chicago,12 hr 50 min
+"United, Lufthansa",N/A,6:35 PM,ORD,Chicago,USA,CDG,1:40 PM+1,Paris,Chicago,12 hr 5 min
+"Lufthansa, United",N/A,10:30 PM,ORD,Chicago,USA,CDG,5:45 PM+1,Paris,Chicago,12 hr 15 min
+"American, British Airways",N/A,10:30 PM,ORD,Chicago,USA,CDG,4:55 PM+1,Paris,Chicago,11 hr 25 min
+"American, British Airways, Iberia",N/A,12:54 PM,ORD,Chicago,USA,CDG,6:55 AM+1,Paris,Chicago,11 hr 1 min
+Aer Lingus,N/A,8:55 PM,ORD,Chicago,USA,CDG,3:50 PM+1,Paris,Chicago,11 hr 55 min
+United,N/A,8:45 AM,ORD,Chicago,USA,CDG,7:05 AM+1,Paris,Chicago,15 hr 20 min
+"SWISS, United",N/A,7:15 PM,ORD,Chicago,USA,BER,1:55 PM+1,Berlin,Chicago,11 hr 40 min
+"Delta, KLM, Virgin Atlantic",N/A,10:55 PM,SEA,Seattle,USA,BER,7:50 AM+2,Berlin,Seattle,23 hr 55 min
+"British Airways, Iberia, American, Finnair",N/A,7:40 PM,SEA,Seattle,USA,BER,6:05 PM+1,Berlin,Seattle,13 hr 25 min
+United,N/A,11:45 AM,ORD,Chicago,USA,CDG,7:45 AM+1,Paris,Chicago,13 hr
+Icelandair,N/A,7:30 PM,ORD,Chicago,USA,LGW,11:45 AM+1,London,Chicago,10 hr 15 min
+United,N/A,9:30 PM,ORD,Chicago,USA,BER,7:15 AM+2,Berlin,Chicago,26 hr 45 min
+"Lufthansa, United",N/A,3:35 PM,ORD,Chicago,USA,BER,9:05 AM+1,Berlin,Chicago,10 hr 30 min
+"Lufthansa, United",N/A,9:25 PM,ORD,Chicago,USA,BER,3:05 PM+1,Berlin,Chicago,10 hr 40 min
+"American, British Airways, Iberia, Alaska, Finnair",N/A,8:25 AM,ORD,Chicago,USA,LHR,10:10 PM,London,Chicago,7 hr 45 min
+"Lufthansa, Lufthansa City Airlines, United",N/A,9:25 PM,ORD,Chicago,USA,BER,4:05 PM+1,Berlin,Chicago,11 hr 40 min
+"United, Lufthansa",N/A,6:35 PM,ORD,Chicago,USA,BER,12:55 PM+1,Berlin,Chicago,11 hr 20 min
+"Lufthansa, United",N/A,10:30 PM,ORD,Chicago,USA,BER,4:55 PM+1,Berlin,Chicago,11 hr 25 min
+"American, British Airways, Iberia",N/A,11:59 PM,SEA,Seattle,USA,LGW,7:15 AM+2,London,Seattle,24 hr 11 min
+"American, British Airways",N/A,11:59 PM,SEA,Seattle,USA,LGW,7:15 AM+2,London,Seattle,24 hr 11 min
+"American, British Airways, Iberia",N/A,11:59 PM,SEA,Seattle,USA,LGW,7:15 AM+2,London,Seattle,24 hr 11 min
+"American, British Airways, Iberia",N/A,11:59 PM,SEA,Seattle,USA,LGW,7:15 AM+2,London,Seattle,24 hr 11 min
+"American, British Airways",N/A,11:59 PM,SEA,Seattle,USA,LGW,7:15 AM+2,London,Seattle,24 hr 11 min
+"American, British Airways, Iberia",N/A,11:59 PM,SEA,Seattle,USA,LGW,7:15 AM+2,London,Seattle,24 hr 11 min
+"American, British Airways, Iberia",N/A,11:59 PM,SEA,Seattle,USA,LGW,7:15 AM+2,London,Seattle,24 hr 11 min
+"American, British Airways",N/A,11:59 PM,SEA,Seattle,USA,LGW,7:15 AM+2,London,Seattle,24 hr 11 min
+"American, British Airways, Iberia",N/A,11:59 PM,SEA,Seattle,USA,LGW,7:15 AM+2,London,Seattle,24 hr 11 min
+"American, British Airways",N/A,11:59 PM,SEA,Seattle,USA,LGW,7:15 AM+2,London,Seattle,24 hr 11 min
+"American, British Airways, Iberia",N/A,11:59 PM,SEA,Seattle,USA,LGW,7:15 AM+2,London,Seattle,24 hr 11 min
+"American, Finnair, Iberia, Aer Lingus",N/A,9:30 AM,DUB,Dublin,Ireland,ORD,11:32 AM,Chicago,Dublin,8 hr 2 min
+"Aer Lingus, American",N/A,11:35 AM,DUB,Dublin,Ireland,ORD,2:00 PM,Chicago,Dublin,8 hr 25 min
+"United, Brussels Airlines, Lufthansa",N/A,11:35 AM,DUB,Dublin,Ireland,ORD,2:15 PM,Chicago,Dublin,8 hr 40 min
+"KLM, Delta (Operated by KLM Cityhopper)",N/A,8:55 AM,DUB,Dublin,Ireland,ORD,2:35 PM,Chicago,Dublin,11 hr 40 min
+"Delta, KLM (Operated by SkyWest DBA Delta Connection)",N/A,11:55 AM,DUB,Dublin,Ireland,MDW,6:05 PM,Chicago,Dublin,12 hr 10 min
+"Scandinavian Airlines, Alaska",N/A,8:35 PM,DUB,Dublin,Ireland,SEA,9:41 PM+1,Seattle,Dublin,33 hr 6 min
+American,N/A,11:45 AM,DUB,Dublin,Ireland,ORD,5:42 PM,Chicago,Dublin,11 hr 57 min
+American,N/A,12:40 PM,DUB,Dublin,Ireland,ORD,8:40 PM,Chicago,Dublin,14 hr
+"Air Europa, KLM",N/A,7:05 AM,MAD,Madrid,Spain,ORD,2:35 PM,Chicago,Madrid,14 hr 30 min
+"Aer Lingus, American",N/A,4:40 PM,DUB,Dublin,Ireland,ORD,7:05 PM,Chicago,Dublin,8 hr 25 min
+"Austrian, United",N/A,9:30 PM,FCO,Rome,Italy,ORD,1:20 PM+1,Chicago,Rome,22 hr 50 min
+ITA,N/A,9:20 AM,FCO,Rome,Italy,ORD,1:10 PM,Chicago,Rome,10 hr 50 min
+"Iberia, Finnair, American, British Airways",N/A,11:35 AM,MAD,Madrid,Spain,ORD,2:20 PM,Chicago,Madrid,9 hr 45 min
+"American, Iberia, Finnair, British Airways",N/A,11:05 AM,FCO,Rome,Italy,ORD,2:30 PM,Chicago,Rome,10 hr 25 min
+"United, Lufthansa",N/A,9:45 AM,FCO,Rome,Italy,ORD,1:15 PM,Chicago,Rome,10 hr 30 min
+"United, Brussels Airlines",N/A,9:30 PM,ORD,Chicago,USA,DUB,11:10 AM+1,Dublin,Chicago,7 hr 40 min
+"American, Iberia, Aer Lingus, Finnair",N/A,10:40 PM,ORD,Chicago,USA,DUB,11:40 AM+1,Dublin,Chicago,7 hr
+"Aer Lingus, American",N/A,8:55 PM,ORD,Chicago,USA,DUB,10:25 AM+1,Dublin,Chicago,7 hr 30 min
+"United, Austrian",N/A,6:05 AM,SEA,Seattle,USA,DUB,7:05 AM+1,Dublin,Seattle,17 hr
+United,N/A,1:35 PM,SEA,Seattle,USA,DUB,11:10 AM+1,Dublin,Seattle,13 hr 35 min
+"Air Canada, United",N/A,11:35 AM,SEA,Seattle,USA,DUB,8:15 AM+1,Dublin,Seattle,12 hr 40 min
+"British Airways, Iberia, American",N/A,7:40 PM,SEA,Seattle,USA,DUB,4:55 PM+1,Dublin,Seattle,13 hr 15 min
+"American, Aer Lingus",N/A,10:30 PM,ORD,Chicago,USA,DUB,3:45 PM+1,Dublin,Chicago,11 hr 15 min
+American,N/A,11:49 AM,ORD,Chicago,USA,DUB,5:00 AM+1,Dublin,Chicago,11 hr 11 min
+"American, Iberia",N/A,11:56 AM,ORD,Chicago,USA,DUB,5:55 AM+1,Dublin,Chicago,11 hr 59 min
+American,N/A,3:18 PM,ORD,Chicago,USA,DUB,9:45 AM+1,Dublin,Chicago,12 hr 27 min
+"Air Canada, United",N/A,11:00 AM,ORD,Chicago,USA,MAD,11:15 AM+1,Madrid,Chicago,17 hr 15 min
+"Air Canada, United",N/A,10:55 AM,ORD,Chicago,USA,FCO,9:35 AM+1,Rome,Chicago,15 hr 40 min
+"Delta, KLM (Operated by SkyWest DBA Delta Connection)",N/A,6:45 PM,MDW,Chicago,USA,DUB,10:45 AM+1,Dublin,Chicago,10 hr
+"Aer Lingus, American",N/A,3:45 PM,ORD,Chicago,USA,DUB,5:15 AM+1,Dublin,Chicago,7 hr 30 min
+"Aer Lingus, American",N/A,6:45 PM,SEA,Seattle,USA,DUB,11:45 AM+1,Dublin,Seattle,9 hr
+"American, British Airways, Iberia, Finnair",N/A,5:20 PM,ORD,Chicago,USA,FCO,9:15 AM+1,Rome,Chicago,8 hr 55 min
+"Iberia, American, British Airways, Finnair, Alaska",N/A,4:35 PM,ORD,Chicago,USA,MAD,7:50 AM+1,Madrid,Chicago,8 hr 15 min
+"Iberia, American, British Airways, Finnair",N/A,4:45 PM,JFK,New York,USA,MAD,6:10 AM+1,Madrid,New York,7 hr 25 min
+"Delta, Air France, KLM, Virgin Atlantic, Air Europa",N/A,6:25 PM,JFK,New York,USA,MAD,7:45 AM+1,Madrid,New York,7 hr 20 min
+"American, British Airways, Iberia, Finnair",N/A,3:55 PM,MIA,Miami,USA,MAD,6:05 AM+1,Madrid,Miami,8 hr 10 min
+"Aer Lingus, American",N/A,4:55 PM,JFK,New York,USA,DUB,4:25 AM+1,Dublin,New York,6 hr 30 min
+Tap Air Portugal,N/A,11:00 PM,EWR,Newark,USA,MAD,3:20 PM+1,Madrid,Newark,10 hr 20 min
+Tap Air Portugal,N/A,11:00 PM,EWR,Newark,USA,FCO,7:10 PM+1,Rome,Newark,14 hr 10 min
+Tap Air Portugal,N/A,10:05 PM,JFK,New York,USA,MAD,3:20 PM+1,Madrid,New York,11 hr 15 min
+"Iberia, Vueling (Operated by Iberia for Level Spain)",N/A,11:25 PM,JFK,New York,USA,MAD,5:45 PM+1,Madrid,New York,12 hr 20 min
+Scandinavian Airlines,N/A,6:50 PM,EWR,Newark,USA,DUB,11:40 AM+1,Dublin,Newark,11 hr 50 min
+Tap Air Portugal,N/A,12:35 AM,MIA,Miami,USA,MAD,7:20 PM,Madrid,Miami,12 hr 45 min
+"Delta, Air France, KLM",N/A,9:40 PM,JFK,New York,USA,DUB,9:15 AM+1,Dublin,New York,6 hr 35 min
+"United, Lufthansa, Brussels Airlines",N/A,7:30 PM,EWR,Newark,USA,MAD,9:00 AM+1,Madrid,Newark,7 hr 30 min
+"Iberia, American, Finnair, British Airways",N/A,8:45 PM,JFK,New York,USA,MAD,10:10 AM+1,Madrid,New York,7 hr 25 min
+"Iberia, American, British Airways, Finnair",N/A,4:45 PM,MIA,Miami,USA,MAD,7:45 AM+1,Madrid,Miami,9 hr
+"Iberia, American, British Airways, Finnair",N/A,9:35 PM,MIA,Miami,USA,MAD,12:35 PM+1,Madrid,Miami,9 hr
+"United, Lufthansa, Austrian, Brussels Airlines",N/A,7:05 PM,EWR,Newark,USA,DUB,7:05 AM+1,Dublin,Newark,7 hr
+"United, Lufthansa",N/A,9:45 PM,EWR,Newark,USA,DUB,9:45 AM+1,Dublin,Newark,7 hr
+"Delta, Air France, KLM",N/A,5:00 PM,JFK,New York,USA,FCO,7:30 AM+1,Rome,New York,8 hr 30 min
+"Delta, Air France, KLM",N/A,7:30 PM,JFK,New York,USA,FCO,10:05 AM+1,Rome,New York,8 hr 35 min
+"Delta, Air France, KLM",N/A,10:55 PM,JFK,New York,USA,FCO,1:30 PM+1,Rome,New York,8 hr 35 min
+"Aer Lingus, American",N/A,5:20 PM,EWR,Newark,USA,DUB,4:50 AM+1,Dublin,Newark,6 hr 30 min
+"American, Finnair, British Airways, Iberia",N/A,10:25 AM,MAD,Madrid,Spain,JFK,12:30 PM,New York,Madrid,8 hr 5 min
+"Iberia, American, Finnair, British Airways",N/A,12:25 PM,MAD,Madrid,Spain,JFK,2:40 PM,New York,Madrid,8 hr 15 min
+"Aer Lingus, American",N/A,11:05 AM,DUB,Dublin,Ireland,JFK,1:29 PM,New York,Dublin,7 hr 24 min
+"United, Lufthansa, Austrian, Brussels Airlines",N/A,9:20 AM,DUB,Dublin,Ireland,EWR,11:55 AM,Newark,Dublin,7 hr 35 min
+"Delta, KLM, Air France",N/A,10:00 AM,DUB,Dublin,Ireland,JFK,12:40 PM,New York,Dublin,7 hr 40 min
+Scandinavian Airlines,N/A,8:35 PM,DUB,Dublin,Ireland,EWR,1:15 PM+1,Newark,Dublin,21 hr 40 min
+Scandinavian Airlines (Operated by Sas Connect),N/A,12:40 PM,DUB,Dublin,Ireland,JFK,3:40 PM+1,New York,Dublin,32 hr
+Tap Air Portugal (Operated by Portugalia Airlines),N/A,10:15 PM,MAD,Madrid,Spain,EWR,9:15 PM+1,Newark,Madrid,29 hr
+"Iberia, Finnair, American, British Airways",N/A,4:20 PM,MAD,Madrid,Spain,JFK,6:55 PM,New York,Madrid,8 hr 35 min
+American (Operated by Republic Airways as American Eagle),N/A,12:20 PM,MAD,Madrid,Spain,LGA,10:00 AM+1,New York,Madrid,27 hr 40 min
+Icelandair,N/A,3:25 PM,FCO,Rome,Italy,JFK,7:10 PM+1,New York,Rome,33 hr 45 min
+"Aer Lingus, American",N/A,1:15 PM,DUB,Dublin,Ireland,EWR,3:50 PM,Newark,Dublin,7 hr 35 min
+"Aer Lingus, American",N/A,4:45 PM,DUB,Dublin,Ireland,JFK,7:20 PM,New York,Dublin,7 hr 35 min
+"Delta, KLM, Air France, Virgin Atlantic, Air Europa",N/A,10:00 AM,MAD,Madrid,Spain,JFK,12:30 PM,New York,Madrid,8 hr 30 min
+ITA,N/A,9:35 AM,FCO,Rome,Italy,JFK,1:15 PM,New York,Rome,9 hr 40 min
+ITA,N/A,10:15 AM,FCO,Rome,Italy,JFK,1:55 PM,New York,Rome,9 hr 40 min
+IndiGo,101,7:40 PM,DXB,Dubai,United Arab Emirates,MAA,1:30 AM+1,Chennai,India,4 hr 20 min
+Air India,102,11:10 PM,DXB,Dubai,United Arab Emirates,MAA,5:00 AM+1,Chennai,India,4 hr 20 min
+Emirates,103,2:45 AM,DXB,Dubai,United Arab Emirates,MAA,8:25 AM,Chennai,India,4 hr 10 min
+Vistara,104,7:15 PM,DXB,Dubai,United Arab Emirates,MAA,8:55 AM+1,Chennai,India,12 hr 10 min
+IndiGo,105,5:00 AM,DXB,Dubai,United Arab Emirates,MAA,1:55 PM,Chennai,India,7 hr 25 min
+IndiGo,106,4:55 AM,DXB,Dubai,United Arab Emirates,MAA,12:05 AM+1,Chennai,India,17 hr 40 min
+IndiGo,107,10:40 AM,DXB,Dubai,United Arab Emirates,MAA,9:20 PM,Chennai,India,9 hr 10 min
+Air Arabia,108,10:00 PM,DXB,Dubai,United Arab Emirates,MAA,3:35 AM+1,Chennai,India,4 hr 5 min
+Emirates,109,2:50 PM,DXB,Dubai,United Arab Emirates,MAA,8:30 PM,Chennai,India,4 hr 10 min
+Emirates,110,9:00 PM,DXB,Dubai,United Arab Emirates,MAA,2:40 AM+1,Chennai,India,4 hr 10 min
+IndiGo,111,5:00 AM,DXB,Dubai,United Arab Emirates,BLR,2:30 PM,Karnataka,India,8 hr
+IndiGo,112,10:20 PM,DXB,Dubai,United Arab Emirates,BLR,4:00 AM+1,Karnataka,India,4 hr 10 min
+Emirates,113,3:20 AM,DXB,Dubai,United Arab Emirates,BLR,8:55 AM,Karnataka,India,4 hr 5 min
+Vistara,114,7:15 PM,DXB,Dubai,United Arab Emirates,BLR,7:45 AM+1,Karnataka,India,11 hr
+IndiGo,115,10:40 AM,DXB,Dubai,United Arab Emirates,BLR,11:30 PM,Karnataka,India,11 hr 20 min
+IndiGo,116,11:25 AM,DXB,Dubai,United Arab Emirates,BLR,9:40 PM,Karnataka,India,8 hr 45 min
+IndiGo,117,7:40 PM,DXB,Dubai,United Arab Emirates,BLR,7:55 AM+1,Karnataka,India,10 hr 45 min
+IndiGo,118,10:05 PM,DXB,Dubai,United Arab Emirates,BLR,7:45 AM+1,Karnataka,India,8 hr 10 min
+IndiGo,119,5:55 PM,DXB,Dubai,United Arab Emirates,BLR,4:10 AM+1,Karnataka,India,8 hr 45 min
+IndiGo,120,5:00 AM,DXB,Dubai,United Arab Emirates,BLR,5:10 PM,Karnataka,India,10 hr 40 min
+IndiGo,121,11:10 PM,SHJ,Dubai,United Arab Emirates,BLR,7:50 AM+1,Karnataka,India,7 hr 10 min
+IndiGo,122,5:00 AM,SHJ,Dubai,United Arab Emirates,BLR,3:35 PM,Karnataka,India,9 hr 5 min
+IndiGo,123,10:45 PM,SHJ,Dubai,United Arab Emirates,BLR,7:40 AM+1,Karnataka,India,7 hr 25 min
+IndiGo,124,11:50 PM,SHJ,Dubai,United Arab Emirates,BLR,9:45 AM+1,Karnataka,India,8 hr 25 min
+Air Arabia,125,10:15 PM,SHJ,Dubai,United Arab Emirates,BLR,3:35 AM+1,Karnataka,India,3 hr 50 min
+Emirates,126,1:45 PM,SHJ,Dubai,United Arab Emirates,BLR,7:20 PM,Karnataka,India,4 hr 5 min
+Emirates,127,9:15 PM,SHJ,Dubai,United Arab Emirates,BLR,2:45 AM+1,Karnataka,India,4 hr
